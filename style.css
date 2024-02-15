@@ -1,15 +1,22 @@
 /* Reset styles */
 * {
+
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
 /* Global styles */
+/*when any link to content on page is clicked transition is smooth*/
+html{
+    scroll-behavior: smooth;
+}
 body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
+    
 }
+
 /*centers top level */
 .container {
     max-width: 800px;
