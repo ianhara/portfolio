@@ -42,7 +42,7 @@ body {
 }
 /* font size to 32px */
 .header h1 {
-color: #e6b885;
+color: #85e6ce;
     display: inline;
     text-align: left;
     font-size: 32px;
@@ -68,13 +68,13 @@ color: #e6b885;
 }
 /*when hovering change color of links*/
 .navbar ul li a:hover {
-    color:#e6b885;
+    color:#bf85e6;
 }
 /*format sectoins and hover transition*/
 .section {
     margin-top: 40px;
     padding: 20px;
-    background-color: #e6b885;
+    background-color: #bf85e6;
     border-radius: 5px;
     transition: background-color 0.2s ease;
 }
@@ -91,6 +91,7 @@ color: #e6b885;
 .profile-picture {
     text-align: center;
     margin-bottom: 20px;
+    
 }
 .profile-picture.first img{
 max-width: 800%;
