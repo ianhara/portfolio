@@ -60,7 +60,7 @@ body {
 }
 /*when hovering change color of links*/
 .navbar ul li a:hover {
-    color: #ccc;
+    color: #cc0e0e;
 }
 /*format sectoins and hover transition*/
 .section {
