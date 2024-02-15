@@ -10,11 +10,15 @@
 /*when any link to content on page is clicked transition is smooth*/
 html{
     scroll-behavior: smooth;
+    background-color: rgb(109, 180, 156);
 }
 body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
     
+}
+.screenshot{
+    max-width: 100%;
 }
 
 /*centers top level */
@@ -59,7 +63,7 @@ body {
 .section {
     margin-top: 40px;
     padding: 20px;
-    background-color: #fa5e5e;
+    background-color: #e6b885;
     border-radius: 5px;
     transition: background-color 0.2s ease;
 }
